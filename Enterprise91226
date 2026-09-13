@@ -1,0 +1,22 @@
+- Foundations of IT, building a small corporate environ
+- Intro
+
+Why take the course?
+- Hands-on practice
+- Build a small business network
+- Begin a portfolio build
+
+Expected outcomes
+- Functional virtual network with simulate business components
+- Email server, workstations, security server, SIEM, XDR, security sandbox
+- Learn basics of setting up a business environ
+- Understand the basic steps of conducting a cyberattack
+- Implement relevant security detections
+
+Project organization
+- Skills section 1: A Primer on Virtualization with virtualbox
+- Skills section 2: Intro to Linux
+- Section 1: Build an enterprise network
+- Section 2: Create a vulnerable environ and detections
+- Section 3: Cyber attack - initial access
+
