@@ -1,0 +1,41 @@
+- Learning cloud with hands-on practice
+- Learn new infrastructure skills with the cloud (attacks and defenses on AWS)
+- Continue portfolio build
+
+Outcomes
+- Expand your homelab to simulate a production network
+- Cloud VMs, Data Storage, VPC Network, Functions
+- Learn bsaics of deploying, attacking, and defending a production environ in AWS
+- Fully functional PROD net
+- Implement security detections and preventions
+
+Project Organization
+- Intro
+- Housekeeping
+- Section 1: Cloud Infrastructure
+- Section 2: Attacks
+- Section 3: Defenses
+- Section 4: Self-study labs
+- Section 5: Conclusion
+
+Documentation at https://docs.projectsecurity.io/ca101/overview/
+
+Help 
+Method 1 - Discord
+Method 2 - Ticket Support System coming soon
+
+Query Google and LLMs
+- Description
+- Which VM
+- Screenshot
+- Copy paste error code
+- Your host OS
+
+Minimum Sys reqs
+- works on modern Windows, macOS, and Linux
+- Bash or ZSH 
+- 8GB of RAM
+- 4 CPU cores
+- 100GBs of Available Storage
+
+
