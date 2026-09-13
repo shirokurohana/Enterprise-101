@@ -1,0 +1,30 @@
+- Open source OS - 1991
+- Run by Linux foundation
+- Used to host servers, dev environ, etc
+
+Security implications
+- Open source transparency
+- Minimal malware testing 
+- Complexity leading to misconfigs
+- Lack of centralized support
+- Untrusted repositories
+
+Directories are containers used to store files and other directories
+/usr/bin/env
+
+Each backslash is a new directory
+cd
+mkdir make a new one
+rmdir remove dir
+rm -rf dir name - all dirs and files
+./program_name
+
+ls 
+- a
+--color
+-d 
+-l
+-r 
+-R
+-t
+
