@@ -1,0 +1,11 @@
+- A software and prof services company that provide value
+- Network design
+- Creating workstations, AD, security servers
+
+Network Deep-Dive
+- Email server - post-fix - route email locally
+- Workstation fleet - SecOnion, Windows
+- AD
+- SecBox - Wazuh - XDR and SIEM
+- Unique virtual machines - 6 total - 1 hypervisor (VirtualBox)
+
