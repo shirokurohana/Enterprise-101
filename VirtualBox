@@ -1,0 +1,15 @@
+Can skip to virtualbox intro
+Type 2 Hypervisor - exists on top of existing OS
+
+VM - software based emulation of a physical computer
+
+ISO - disk image that contains complete contents of a physical disc
+
+Network settings
+We're creative a NAT network
+
+Snapshots
+- Save exact state of each VM
+- Can revert back to a state later if needed
+
+Guest additions to augment functionality and usability of the VM
